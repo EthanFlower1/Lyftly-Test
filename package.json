@@ -1,0 +1,25 @@
+{
+  "name": "lyftly-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanFlower1/Lyftly-Test.git"
+  },
+  "keywords": [],
+  "author": "Ethan Flower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EthanFlower1/Lyftly-Test/issues"
+  },
+  "homepage": "https://github.com/EthanFlower1/Lyftly-Test#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
+}

@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(42, 38, 38);
+}
+.title {
+  text-align: center;
+  color: rgba(255, 0, 191, 0.629);
+  font-family: 'Fira Sans', sans-serif;
+  font-style: 'Fira Sans';
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+}
+#response {
+  text-align: center;
+  margin-top: 5%;
+  height: 200px;
+  width: 400px;
+  padding: 10px;
+  color: rgba(255, 0, 191, 0.629);
+  font-family: 'Fira Sans', sans-serif;
+  font-style: 'Fira Sans';
+  font-size: larger;
+  background-color: rgba(43, 50, 49, 0.629);
+}
+#input {
+  background-color: rgba(43, 50, 49, 0.629);
+  border-style: none;
+  width: 200px;
+  height: 20px;
+  text-align: center;
+  color: rgba(177, 211, 206, 0.629);
+}
+button {
+  background-color: rgba(43, 50, 49, 0.629);
+  border-style: none;
+  color: rgba(177, 211, 206, 0.629);
+  height: 20px;
+}
